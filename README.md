@@ -1,4 +1,7 @@
-# Reducing a Set of Regular Expressions and Analyzing Differences of Domain-specific Statistic Reporting
+# NOTE: Please see [https://github.com/Tobi2K/statistics-extraction](https://github.com/Tobi2K/statistics-extraction) for the most up-to-date version.
+
+
+## Reducing a Set of Regular Expressions and Analyzing Differences of Domain-specific Statistic Reporting
 
 ---
 This repository provides the code for the paper 'Reducing a Set of Regular Expressions and Analyzing Differences of Domain-specific Statistic Reporting'.
